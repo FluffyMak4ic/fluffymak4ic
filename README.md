@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mak4ic</h1>
 <h3 align="center">Web developer from Russia.</h3>
 
-- 🔭 I’m currently working on [PawsLauncher](https://github.com/FluffyMak4ic/PawsLauncher)
+- 🔭 I’m currently working on [FluffyLauncher](https://github.com/FluffyMak4ic/FluffyLauncher)
 
 - 🌱 I’m currently learning **babel, vue, react**
 
