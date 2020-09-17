@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mak4ic</h1>
-<h3 align="center">Web developer from Russia.</h3>
+<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
 <a href="https://codepen.io/mak4ic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mak4ic" height="20" width="20" /></a>
