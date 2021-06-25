@@ -1,13 +1,10 @@
-<h3 align="center">Hi there 👋</h3>
+# Hi 👋, I'm Mak4ic
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fluffymak4ic">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluffymak4ic">
-</p>
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=ff7700&bgcolor=110d17)
+![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=ff7700)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=ff7700)
 
-<p align="center">
-<a href="https://codepen.io/mak4ic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mak4ic" height="20" width="20" /></a>
-<a href="https://twitter.com/mak4ic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mak4ic" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/13930355" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13930355" height="20" width="20" /></a>
-</p>
+![](https://komarev.com/ghpvc/?username=fluffymak4ic&style=flat-square&color=ff7700)
+![](https://img.shields.io/twitter/follow/mak4ic?logo=twitter&style=flat-square&logoColor=white&color=ff7700)
+
+![](https://github-readme-stats.vercel.app/api/?username=fluffymak4ic&show_icons=true&title_color=fff&icon_color=ff7700&text_color=fff&bg_color=151515)
